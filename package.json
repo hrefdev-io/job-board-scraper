@@ -1,0 +1,23 @@
+{
+  "name": "job-board-scraper",
+  "version": "1.0.0",
+  "description": "Scraping github jobs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrefdev-io/job-board-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrefdev-io/job-board-scraper/issues"
+  },
+  "homepage": "https://github.com/hrefdev-io/job-board-scraper#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
