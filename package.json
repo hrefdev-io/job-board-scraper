@@ -19,5 +19,8 @@
   "homepage": "https://github.com/hrefdev-io/job-board-scraper#readme",
   "devDependencies": {
     "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "google-spreadsheet": "^3.3.0"
   }
 }
